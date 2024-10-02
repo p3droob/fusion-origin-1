@@ -1,0 +1,13 @@
+{
+  "a": "b",
+  "users": {
+    "yaek": {
+      "flocos": "1k",
+      "warns": 3
+    },
+    "frozen": {
+      "flocos": "128k",
+      "warns": 0
+    }
+  }
+}
